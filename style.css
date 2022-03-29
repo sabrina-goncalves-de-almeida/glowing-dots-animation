@@ -21,7 +21,7 @@ body{
     align-items: center;
     border-radius: 50%;
     border-width: 35px;
-    border-style: solid;
+    border-style: inset;
     border-color: #160518;
 }
 .circle{
